@@ -35,6 +35,6 @@ I like to share my experience and thoughts through public speaking and below are
 
 - [Del caos al contexto: Contextualizando la IA con MCP y AWS]() - NTT DATA
 
-## Podcasts and videos 🎙️
+## Videos 🎙️
 
-- [Java Cloud Migrations](https://www.youtube.com/watch?v=6I8FTA8iiBw) - Java in the Cloud
+- [Next Video]() - Next Video
