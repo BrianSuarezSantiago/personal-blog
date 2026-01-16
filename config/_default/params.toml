@@ -14,12 +14,13 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 # emoji = "🍥"
-subtitle = "I'm Jeroen Reijn, a Cloud Solutions Architect, engineer and AWS Community Builder based in the Netherlands. I write about my experiences and thoughts on AWS, Serverless, DevOps and Java."
+subtitle = "I'm Brian, a Cloud Engineer, an AWS Community Builder and a tech enthusiast based in Spain. I write about my experiences and thoughts on AWS, DevOps, and tech."
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/IMG_0309.jpeg"
+local = false
+src = "https://d1hvrz5kjt6fwi.cloudfront.net/About/Professional.jpeg"
+alt = "Brian Suárez Santiago"
 
 [article]
 headingAnchor = false
