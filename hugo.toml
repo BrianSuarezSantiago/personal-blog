@@ -1,6 +1,6 @@
 baseURL="https://brianintech.com"
 languageCode="en-us"
-title="Brian Suárez Santiago"
+title="Brian in Tech"
 theme="hugo-theme-stack"
 ignoreLogs = ['warning-goldmark-raw-html']
 titleCaseStyle = 'none'
