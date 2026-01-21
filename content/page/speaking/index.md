@@ -1,6 +1,6 @@
 ---
 title: Speaking
-image: ""
+image: https://d1hvrz5kjt6fwi.cloudfront.net/About/AWS reInvent 2025.jpeg
 aliases:
 - /presentations
 menu:
