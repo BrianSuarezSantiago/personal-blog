@@ -1,14 +1,16 @@
 ---
-title: All Builders Welcome Grant (ABW) Lo que debes saber antes de aplicar
-date: 2025-12-10T17:30:00+02:00
+title: "All Builders Welcome Grant (ABW): Lo que debes saber antes de aplicar"
+date: 2025-12-08T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2003/Post%2003_horizontal_en.png
 draft: false
 description: Proceso completo, criterios reales y consejos prácticos para aumentar tus probabilidades
 tags:
   - AWS
+  - AWS re:Invent
 categories:
   - AWS
   - AWS Programs
+  - AWS re:Invent
 ---
 
 ¿Cómo es realmente el proceso de aplicación?

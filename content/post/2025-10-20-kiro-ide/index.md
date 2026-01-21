@@ -7,9 +7,11 @@ description: ¿Revolución o marketing? La apuesta de AWS para que la IA escriba
 tags:
   - AWS
   - Kiro
+  - AI
 categories:
   - AWS
   - AWS Developer Tools
+  - AI
 ---
 
 Hace poco más de un mes salí de la lista de espera de Kiro, el nuevo entorno de desarrollo que AWS lanzó como respuesta a Windsurf y Cursor. En teoría, parecía otro IDE más con IA integrada. En la práctica, me encontré con algo mucho más distinto de lo que esperaba.

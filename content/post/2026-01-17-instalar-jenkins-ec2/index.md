@@ -1,6 +1,6 @@
 ---
 title: Cómo instalar Jenkins en AWS
-date: 2025-11-04T10:30:00+02:00
+date: 2026-01-17T10:30:00+02:00
 image:
 draft: false
 description:
