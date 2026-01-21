@@ -1,5 +1,6 @@
 ---
 title: Enabling AWS Budget Notifications with SNS using AWS CDK
+slug: "aws-budget-notifications-sns-cdk"
 date: 2025-08-25T16:31:00+02:00
 image: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTc5ODl8MHwxfHNlYXJjaHwyfHxjb3N0JTIwc2F2aW5nfGVufDB8fHx8MTc1NTc3NTg3NXww&ixlib=rb-4.1.0&q=80&w=1080
 draft: false

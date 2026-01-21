@@ -1,5 +1,6 @@
 ---
 title: "All Builders Welcome Grant (ABW): Lo que debes saber antes de aplicar"
+slug: "all-builders-welcome-grant-tips"
 date: 2025-12-08T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2003/Post%2003_horizontal_en.png
 draft: false

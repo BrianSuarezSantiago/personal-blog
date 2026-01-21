@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar WordPress en una instancia EC2 con Amazon Linux 2023
+slug: "instalar-wordpress-ec2"
 date: 2025-05-23T10:30:00+02:00
 image:
 draft: false

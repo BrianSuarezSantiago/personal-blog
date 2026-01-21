@@ -1,5 +1,6 @@
 ---
 title: "Kiro: El nuevo IDE de AWS que revoluciona la programación"
+slug: "kiro-ide-aws"
 date: 2025-10-20T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2001/Post%2001_horizontal_es.png
 draft: false

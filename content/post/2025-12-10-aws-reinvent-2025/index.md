@@ -1,5 +1,6 @@
 ---
 title: "AWS re:Invent 2025 desde dentro: La experiencia de un primerizo"
+slug: "aws-reinvent-2025-experiencia"
 date: 2025-12-10T20:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2004/Post%2004_horizontal_en.png
 draft: false

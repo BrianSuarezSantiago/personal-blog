@@ -1,6 +1,6 @@
 ---
 title: "Strands Agents 101: Introducción práctica a los agentes de IA en AWS"
-slug: "strands-agents-101"
+slug: "strands-agents-101-introduccion-practica"
 date: 2025-10-20T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2005/Post%2005_horizontal_en.png
 draft: false

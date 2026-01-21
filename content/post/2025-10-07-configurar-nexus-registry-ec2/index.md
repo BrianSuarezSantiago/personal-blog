@@ -1,5 +1,6 @@
 ---
 title: Configura un repositorio Nexus con Docker y AWS EC2 en minutos
+slug: "configurar-nexus-docker-ec2"
 date: 2025-10-07T10:30:00+02:00
 image:
 draft: false

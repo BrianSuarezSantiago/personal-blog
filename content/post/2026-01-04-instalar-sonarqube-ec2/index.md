@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar SonarQube en una instancia EC2 con Ubuntu
+slug: "instalar-sonarqube-ec2"
 date: 2026-01-04T10:30:00+02:00
 image:
 draft: false

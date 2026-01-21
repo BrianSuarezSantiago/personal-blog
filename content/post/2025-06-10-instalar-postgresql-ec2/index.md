@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar PostgreSQL en una instancia EC2 con Amazon Linux 2023
+slug: "instalar-postgresql-ec2"
 date: 2025-06-10T10:30:00+02:00
 image:
 draft: false

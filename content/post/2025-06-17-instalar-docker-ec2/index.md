@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar Docker en una instancia EC2 con Amazon Linux 2023 y Ubuntu
+slug: "instalar-docker-ec2"
 date: 2025-06-17T10:30:00+02:00
 image:
 draft: false

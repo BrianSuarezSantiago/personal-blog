@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar Jenkins en AWS
+slug: "instalar-jenkins-aws"
 date: 2026-01-17T10:30:00+02:00
 image:
 draft: false

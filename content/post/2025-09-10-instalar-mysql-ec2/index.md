@@ -1,5 +1,6 @@
 ---
 title: Cómo instalar MySQL en una instancia EC2 con Amazon Linux 2023
+slug: "instalar-mysql-ec2"
 date: 2025-09-10T10:30:00+02:00
 image:
 draft: false

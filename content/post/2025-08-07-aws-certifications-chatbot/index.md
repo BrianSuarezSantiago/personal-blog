@@ -1,5 +1,6 @@
 ---
 title: Crea tu coach personal para las certificaciones de AWS con Claude y Amazon Bedrock
+slug: "aws-certifications-chatbot-bedrock"
 date: 2025-08-07T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2002/Post%2002_horizontal_es.png
 draft: false
