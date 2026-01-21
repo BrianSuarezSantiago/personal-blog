@@ -11,8 +11,8 @@ tags:
   - AI
 categories:
   - AWS
-  - AWS Developer Tools
   - AI
+  - AWS Developer Tools
 ---
 
 El desarrollo de la IA está cambiando rápidamente, pasando de interacciones simples basadas en prompts a sistemas agénticos: IA que puede razonar, planificar y ejecutar acciones. El SDK de Strands Agents es un framework open source de AWS diseñado para simplificar la construcción de este tipo de agentes siguiendo un enfoque impulsado por el modelo, en el que los modelos de lenguaje grandes (LLM) se encargan del razonamiento y de la selección de herramientas con un código de orquestación mínimo.
