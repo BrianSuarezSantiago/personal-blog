@@ -5,10 +5,7 @@ image: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy
 draft: false
 description: Learn how to set up AWS Budget notifications with SNS using AWS CDK in TypeScript, including gotchas around IAM and KMS policies.
 tags:
-  - aws
-  - typescript
-  - aws-cdk
-  - finops
+  - AWS
 categories:
   - AWS
   - Cloud Engineering
