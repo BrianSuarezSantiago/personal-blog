@@ -1,0 +1,19 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+image: 
+style:
+    background: "#2a9d8f"
+    color: "#fff"
+---
+
+---
+title: "{{ replace .Name "-" " " | title }}"
+description: 
+date: {{ .Date }}
+image: 
+math: 
+license: 
+hidden: false
+comments: true
+draft: true
+---
