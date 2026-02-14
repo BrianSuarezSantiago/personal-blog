@@ -36,11 +36,11 @@ I like to share my experience and thoughts through public speaking and below are
 
 - [Early Detection of Alzheimer’s Disease Using Deep Learning Models on MRI Data: A Study Based on ADNI]() - Eurocast 2026
 
-- [Strands Agents 101: Agentes de IA en AWS]() - NTT DATA
+- [Strands Agents 101: Agentes de IA en AWS](https://drive.google.com/file/d/1K0XwJcV6Ccm0hbZ4POjOwJ4zMjGlQ_Cx/view?usp=sharing) - NTT DATA
 
 ### 2025
 
-- [Del caos al contexto: Contextualizando la IA con MCP y AWS](https://drive.google.com/file/d/1ErfEveHnMPTVUwPu9Tay7RLjRwt5_Y06/view?usp=share_link) - NTT DATA
+- [Del caos al contexto: Contextualizando la IA con MCP y AWS](https://drive.google.com/file/d/1ErfEveHnMPTVUwPu9Tay7RLjRwt5_Y06/view?usp=sharing) - NTT DATA
 
 ## Videos 🎙️
 
