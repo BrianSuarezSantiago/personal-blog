@@ -18,6 +18,15 @@ url = "https://www.linkedin.com/in/briansuarezsantiago"
 [social.params]
 icon = "brand-linkedin"
 
+# Email
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:bbriansuarezsantiago@protonmail.com"
+
+[social.params]
+icon = "brand-email"
+
 # RSS Feed
 [[social]]
 identifier = "rss"
