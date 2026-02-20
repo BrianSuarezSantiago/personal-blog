@@ -2,7 +2,7 @@
 title: Cómo instalar tu propio servidor Gitea en EC2
 slug: "instalar-gitea-ec2"
 date: 2025-07-20T10:30:00+02:00
-image: "https://d1hvrz5kjt6fwi.cloudfront.net/Blog Posts Covers/Posts Unorder/Post3.png"
+image: "https://d1hvrz5kjt6fwi.cloudfront.net/Blog Posts Covers/Posts Unorder/Post13.png"
 draft: false
 description:
 tags:

@@ -2,9 +2,9 @@
 title: Cómo configurar una GUI en una instancia EC2 usando noVNC
 slug: "configurar-gui-ec2-novnc"
 date: 2025-05-03T09:30:00+02:00
-image: 
+image: "https://d1hvrz5kjt6fwi.cloudfront.net/Blog Posts Covers/Posts Unorder/Post15.png"
 draft: false
-description: 
+description:
 tags:
   - AWS
   - EC2

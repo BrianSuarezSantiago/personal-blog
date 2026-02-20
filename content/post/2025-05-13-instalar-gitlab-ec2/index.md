@@ -2,7 +2,7 @@
 title: Configura un servidor GitLab en AWS EC2 en minutos
 slug: "configurar-gitlab-ec2"
 date: 2025-05-13T10:30:00+02:00
-image:
+image: "https://d1hvrz5kjt6fwi.cloudfront.net/Blog Posts Covers/Posts Unorder/Post14.png"
 draft: false
 description:
 tags:

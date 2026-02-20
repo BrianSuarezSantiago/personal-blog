@@ -2,7 +2,7 @@
 title: ¿Cómo solucionar el error 'GPG key is already installed' al instalar MySQL en Amazon Linux 2023?
 slug: "solucionar-error-gpg-mysql-ec2"
 date: 2025-08-09T10:30:00+02:00
-image:
+image: "https://d1hvrz5kjt6fwi.cloudfront.net/Blog Posts Covers/Posts Unorder/Post11.png"
 draft: false
 description:
 tags:
