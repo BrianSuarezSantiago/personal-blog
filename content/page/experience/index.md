@@ -12,8 +12,9 @@ readingTime: false
 comments: false
 ---
 
+<!-- Resume downloader button -->
 <div style="text-align: center; margin: 20px 0 30px 0;">
-    <a href="https://drive.google.com/file/d/1IlzNe4zsbdBgWW5NXj8THoUaJAaAzXKj/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #2563eb; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: 600;">📄 View my resume</a>
+    <a href="https://drive.google.com/file/d/1IlzNe4zsbdBgWW5NXj8THoUaJAaAzXKj/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #34495e; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: background 0.3s ease;">📄 View my resume</a>
 </div>
 
 ### Cloud Engineer - NTT DATA
@@ -37,7 +38,7 @@ comments: false
 
 ## 🛠️ Skills
 
-### ☁️ Cloud & Infrastructure 
+### ☁️ Cloud & Infrastructure
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
     <div style="text-align: center; flex: 0 0 100px;">
@@ -190,7 +191,7 @@ Especialización en sistemas distribuidos y computación en la nube
 
 ## 📜 Certifications
 
-### AWS Certifications
+### AWS
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
     <!-- AWS Certified Cloud Practitioner -->
@@ -248,13 +249,14 @@ Especialización en sistemas distribuidos y computación en la nube
 
 ## 🏆 Programas y Reconocimientos
 
+<!--
 <div style="text-align: center; margin: 20px 0;">
     <img src="/assets/awscb.png" alt="AWS Community Builder" style="max-width: 200px; margin: 10px auto; display: block;">
     <p><strong>AWS Community Builder</strong></p>
     <p style="font-size: 0.9em; color: #666;">Enero 2026</p>
     <p style="font-size: 0.85em; margin-top: 10px;">Miembro activo de la comunidad AWS contribuyendo a través de contenido técnico y participación en eventos</p>
 </div>
-
+-->
 ---
 
 ## 📚 Publicaciones Académicas
