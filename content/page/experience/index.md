@@ -195,57 +195,60 @@ Especialización en sistemas distribuidos y computación en la nube
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
     <!-- AWS Certified Cloud Practitioner -->
-    <div style="text-align: center; flex: 0 0 200px;">
+    <a href="https://www.credly.com/badges/37384e01-ca54-4d98-99d8-76ae612426e7" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/CLF-02.png" alt="AWS Certified Cloud Practitioner" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>AWS Certified Cloud Practitioner</strong></p>
-    </div>
+    </a>
     <!-- AWS Certified AI Practitioner -->
-    <div style="text-align: center; flex: 0 0 200px;">
+    <a href="https://www.credly.com/badges/5796b327-9bd4-41b1-b475-c47eca126733" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/AIF-C01.png" alt="AWS Certified AI Practitioner" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>AWS Certified AI Practitioner</strong></p>
-    </div>
+    </a>
     <!-- AWS Certified Solutions Architect - Associate -->
-    <div style="text-align: center; flex: 0 0 200px;">
+    <a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/SAA-C03.png" alt="AWS Certified Solutions Architect Associate" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>AWS Certified Solutions Architect - Associate</strong></p>
-    </div>
+    </a>
     <!-- AWS Microcredential Serverless Demonstrated -->
-    <div style="text-align: center; flex: 0 0 200px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/AWS%20Microcredential%20Serverless%20Demonstrated.png" alt="AWS Microcredential Serverless Demonstrated" style="width: 100%; max-width: 200px;">
+    <a href="https://www.credly.com/badges/ccaedb18-ad5c-4c76-951c-8efa01d32d8e" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/AWS Microcredential Serverless Demonstrated.png" alt="AWS Microcredential Serverless Demonstrated" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>AWS Microcredential Serverless Demonstrated</strong></p>
-    </div>
+    </a>
     <!-- AWS Microcredential Agentic AI Demonstrated -->
-    <div style="text-align: center; flex: 0 0 200px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/AWS%20Microcredential%20Agentic%20AI%20Demonstrated.png" alt="AWS Microcredential Agentic AI Demonstrated" style="width: 100%; max-width: 200px;">
+    <a href="https://www.credly.com/badges/473b54c3-421e-4f0a-b056-65ed18ad60e4" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/AWS Microcredential Agentic AI Demonstrated.png" alt="AWS Microcredential Agentic AI Demonstrated" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>AWS Microcredential Agentic AI Demonstrated</strong></p>
-    </div>
+    </a>
 </div>
 
 ### GitHub
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
     <!-- GitHub Foundations -->
-    <div style="text-align: center; flex: 0 0 200px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/GitHub%20Foundations.png" alt="GitHub Foundations" style="width: 100%; max-width: 200px;">
+    <a href="https://www.credly.com/badges/a54d8f40-9481-40ae-8184-9ac50e02334d" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/GitHub Foundations.png" alt="GitHub Foundations" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>GitHub Foundations</strong></p>
-    </div>
+    </a>
     <!-- GitHub Copilot -->
-    <div style="text-align: center; flex: 0 0 200px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/GitHub%20Copilot.png" alt="GitHub Copilot" style="width: 100%; max-width: 200px;">
+    <a href="https://learn.microsoft.com/en-en/users/briansuarezsantiago/credentials/437f8bea6f2bfa79" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/GitHub Copilot.png" alt="GitHub Copilot" style="width: 100%; max-width: 200px;">
         <p style="margin-top: 10px;"><strong>GitHub Copilot</strong></p>
-    </div>
+    </a>
+    <!-- GitHub Actions -->
+    <a href="https://learn.microsoft.com/en-en/users/briansuarezsantiago/credentials/" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/GitHub Actions.png" alt="GitHub Actions" style="width: 100%; max-width: 200px;">
+        <p style="margin-top: 10px;"><strong>GitHub Actions</strong></p>
+    </a>
 </div>
 
 ### HashiCorp
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
-    <div style="text-align: center; flex: 0 0 200px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/HashiCorp%20Certified%20Terraform%20Associate%20(003).png" alt="HashiCorp Certified: Terraform Associate" style="width: 100%; max-width: 200px;">
-        <p style="margin-top: 10px;"><strong>HashiCorp Certified: Terraform Associate</strong></p>
-    </div>
+    <a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank" rel="noopener noreferrer" style="text-align: center; flex: 0 0 200px; text-decoration: none; color: inherit;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Certifications/HashiCorp Certified Terraform%20Associate (003).png" alt="HashiCorp Certified: Terraform Associate" style="width: 100%; max-width: 200px;">
+        <p style="margin-top: 10px;"><strong>HashiCorp Certified Terraform Associate</strong></p>
+    </a>
 </div>
-
-### Microsoft
 
 ## 🏆 Programas y Reconocimientos
 
