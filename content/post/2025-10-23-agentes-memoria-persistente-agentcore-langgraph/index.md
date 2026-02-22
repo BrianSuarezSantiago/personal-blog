@@ -15,12 +15,6 @@ categories:
   - AWS Developer Tools
 ---
 
-A continuación tienes el texto **re-redactado completamente en español**, adaptado a **tu estilo narrativo**: contextual, progresivo, con explicaciones claras y sin sonar a documentación oficial. Mantengo el rigor técnico, pero con un tono de builder que ha probado las cosas y entiende dónde están los problemas reales.
-
-Está **formateado en Markdown** para una correcta visualización en tu blog.
-
----
-
 # Construyendo agentes con memoria persistente usando LangGraph y Amazon Bedrock AgentCore
 
 AWS lanzó **Amazon Bedrock AgentCore** para resolver uno de los grandes problemas de los agentes de IA en producción: **cómo desplegarlos y operarlos de forma segura, escalable y desacoplada del framework o modelo utilizado**.
@@ -315,3 +309,7 @@ No es solo una mejora técnica.
 Es un cambio de paradigma.
 
 A partir de aquí, los agentes dejan de ser demos… y empiezan a ser productos.
+
+---
+
+Si este artículo te ha resultado útil o tienes alguna pregunta, puedes contactar conmigo en [LinkedIn.](https://www.linkedin.com/in/briansuarezsantiago/)

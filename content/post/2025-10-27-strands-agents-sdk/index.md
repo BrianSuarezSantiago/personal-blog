@@ -19,7 +19,7 @@ El desarrollo de la IA está cambiando rápidamente, pasando de interacciones si
 
 En lugar de dedicar meses a construir pipelines complejos, Strands permite a los desarrolladores crear agentes inteligentes y listos para producción en cuestión de días. Esta guía introduce a los principiantes en los fundamentos, los recursos necesarios y los bloques de construcción principales para empezar con confianza.
 
-## ¿Qué es Strands Agents?
+# ¿Qué es Strands Agents?
 
 Strands Agents es un SDK en Python que permite a los desarrolladores crear agentes de IA capaces de:
 
@@ -30,7 +30,7 @@ Strands Agents es un SDK en Python que permite a los desarrolladores crear agent
 
 A diferencia de los scripts tradicionales de chatbots, Strands se centra en el diseño de agentes preparados para producción, haciendo énfasis en la observabilidad, la flexibilidad y la reducción de boilerplate.
 
-## Conceptos clave de Strands Agents
+# Conceptos clave de Strands Agents
 
 La definición más simple de un agente es la combinación de tres elementos:
 
@@ -42,7 +42,7 @@ El agente utiliza estos tres componentes para completar una tarea, a menudo de f
 
 Para definir un agente con el SDK de Strands Agents, se definen estos tres componentes en el código:
 
-### Modelo
+## Modelo
 
 Strands ofrece un soporte flexible de modelos. Puedes utilizar:
 
@@ -53,11 +53,11 @@ Strands ofrece un soporte flexible de modelos. Puedes utilizar:
 - Muchos otros proveedores como OpenAI a través de LiteLLM
 - Tu propio proveedor de modelos personalizado con Strands
 
-### Herramientas
+## Herramientas
 
 Puedes elegir entre miles de servidores publicados del Model Context Protocol (MCP) para usarlos como herramientas de tu agente. Strands también proporciona más de 20 herramientas de ejemplo preconstruidas, incluidas herramientas para manipular archivos, realizar peticiones API e interactuar con APIs de AWS. Cualquier función en Python puede usarse fácilmente como herramienta simplemente utilizando el decorador `@tool` de Strands.
 
-### Prompt
+## Prompt
 
 Proporcionas un prompt en lenguaje natural que define la tarea del agente, como responder una pregunta de un usuario final. También puedes proporcionar un system prompt que define instrucciones generales y el comportamiento deseado del agente.
 
@@ -72,7 +72,7 @@ En cada iteración, Strands invoca al LLM con el prompt y el contexto del agente
 
 Cuando el LLM selecciona una herramienta, Strands se encarga de ejecutarla y de devolver el resultado al LLM. Cuando el LLM completa su tarea, Strands devuelve el resultado final del agente.
 
-## Filosofía de diseño principal (enfoque impulsado por el modelo)
+### Filosofía de diseño principal (enfoque impulsado por el modelo)
 
 Strands desplaza la complejidad desde el desarrollador hacia el propio modelo. En lugar de codificar árboles de decisión o flujos de trabajo:
 
@@ -82,7 +82,7 @@ Strands desplaza la complejidad desde el desarrollador hacia el propio modelo. E
 
 Esto reduce drásticamente el código de orquestación y mejora la mantenibilidad.
 
-## Cómo funcionan los Strands Agents (Agentic Loop)
+# Cómo funcionan los Strands Agents (Agentic Loop)
 
 Para entender realmente por qué Strands requiere tan poco código de orquestación, es útil observar cómo opera internamente un agente. En el núcleo de Strands se encuentra un **bucle agéntico**, en el que el agente razona, actúa y refina continuamente su respuesta coordinando un modelo y un conjunto de herramientas.
 
@@ -137,7 +137,7 @@ pip install strands-agents strands-agents-tools
 
 Una vez instalado, ya puedes crear tu primer agente.
 
-## Creando tu primer agente con Strands
+# Creando tu primer agente con Strands
 
 Un agente de Strands puede inicializarse únicamente con un system prompt:
 
@@ -154,7 +154,7 @@ print(response)
 
 Por defecto, este agente se ejecuta sobre AWS Bedrock utilizando un modelo Claude seleccionado según tu región de AWS, sin necesidad de configuración manual del modelo.
 
-## Añadiendo herramientas a un agente
+# Añadiendo herramientas a un agente
 
 Las herramientas otorgan a los agentes la capacidad de actuar. Strands soporta herramientas integradas y herramientas personalizadas mediante el decorador `@tool`.
 
@@ -189,7 +189,7 @@ agent.tool.calculator(
 
 Esto resulta útil para depurar, probar lógica o utilizar herramientas dentro de otras herramientas.
 
-## Logging y observabilidad
+# Logging y observabilidad
 
 Strands se integra con el módulo estándar de logging de Python, proporcionando visibilidad sobre el comportamiento del agente:
 
@@ -214,7 +214,7 @@ Esto ayuda a rastrear:
 - Uso de herramientas
 - Errores y comportamiento de recuperación
 
-## Proveedores de modelos en Strands
+# Proveedores de modelos en Strands
 
 Aunque AWS Bedrock es el proveedor por defecto, Strands soporta múltiples proveedores de LLM:
 
@@ -225,7 +225,7 @@ Aunque AWS Bedrock es el proveedor por defecto, Strands soporta múltiples prove
 - Ollama (modelos locales)
 - Proveedores personalizados
 
-### Especificar explícitamente un modelo de Bedrock
+## Especificar explícitamente un modelo de Bedrock
 
 ```python
 from strands import Agent
@@ -254,7 +254,7 @@ bedrock_model = BedrockModel(
 agent = Agent(model=bedrock_model)
 ```
 
-## Por qué Strands es accesible para principiantes
+# Por qué Strands es accesible para principiantes
 
 Strands hace que el desarrollo de agentes sea más sencillo al:
 
@@ -264,15 +264,19 @@ Strands hace que el desarrollo de agentes sea más sencillo al:
 - Ofrecer integraciones flexibles de modelos
 - Alinearse de forma natural con los flujos de trabajo de AWS
 
-## Recursos necesarios para principiantes
+# Recursos necesarios para principiantes
 
 - **Strands SDK**: [https://github.com/strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 - **Strands Tools**: [https://github.com/strands-agents/tools](https://github.com/strands-agents/tools)
 - **AWS Bedrock**: [https://aws.amazon.com/bedrock/](https://aws.amazon.com/bedrock/)
 - **Documentación oficial**: [https://strandsagents.com/latest](https://strandsagents.com/latest)
 
-## Conclusión
+# Conclusión
 
 Strands Agents proporciona una base limpia y preparada para el futuro para cualquiera que empiece con IA agéntica. Al permitir que los modelos gestionen el razonamiento y la toma de decisiones, Strands permite a los desarrolladores centrarse en definir capacidades en lugar de gestionar la complejidad.
 
 Esta guía para principiantes cubre todo lo necesario para empezar. A medida que tus casos de uso crecen, Strands escala de forma fluida: desde agentes simples hasta sistemas autónomos y multiagente.
+
+---
+
+Si este artículo te ha resultado útil o tienes alguna pregunta, puedes contactar conmigo en [LinkedIn.](https://www.linkedin.com/in/briansuarezsantiago/)
