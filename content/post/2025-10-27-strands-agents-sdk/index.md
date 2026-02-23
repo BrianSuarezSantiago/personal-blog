@@ -38,6 +38,8 @@ La definición más simple de un agente es la combinación de tres elementos:
 2. **Herramientas**
 3. **Un prompt**
 
+![Propmpt Diagram](prompt-diagram.png)
+
 El agente utiliza estos tres componentes para completar una tarea, a menudo de forma autónoma. La tarea del agente puede ser responder una pregunta, generar código, planificar unas vacaciones u optimizar una cartera financiera. En un enfoque impulsado por el modelo, el agente utiliza el modelo para dirigir dinámicamente sus propios pasos y para usar herramientas con el fin de completar la tarea especificada.
 
 Para definir un agente con el SDK de Strands Agents, se definen estos tres componentes en el código:
@@ -85,6 +87,8 @@ Esto reduce drásticamente el código de orquestación y mejora la mantenibilida
 # Cómo funcionan los Strands Agents (Agentic Loop)
 
 Para entender realmente por qué Strands requiere tan poco código de orquestación, es útil observar cómo opera internamente un agente. En el núcleo de Strands se encuentra un **bucle agéntico**, en el que el agente razona, actúa y refina continuamente su respuesta coordinando un modelo y un conjunto de herramientas.
+
+![Bucle agéntico de Strands Agents](agentic-loop.png)
 
 Este bucle comienza cuando un prompt del usuario invoca al agente. El agente reenvía el prompt al modelo, que razona sobre la solicitud y decide si puede responder directamente o si necesita usar una herramienta. Si se requiere una herramienta, el agente la ejecuta y pasa el resultado de vuelta al modelo para un razonamiento adicional. Este ciclo puede repetirse varias veces hasta que el modelo determina que la tarea está completa.
 

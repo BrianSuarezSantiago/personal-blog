@@ -39,7 +39,6 @@ comments: false
 ## 🛠️ Skills
 
 ### ☁️ Cloud & Infrastructure
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
     <div style="text-align: center; flex: 0 0 100px;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/AWS.svg" alt="AWS" style="width: 100%; max-width: 100px;">
@@ -75,8 +74,7 @@ comments: false
     </div>
 </div>
 
-### DevOps
-
+### ⚙️ DevOps
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
     <div style="text-align: center; flex: 0 0 100px;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Docker.svg" alt="Docker" style="width: 100%; max-width: 100px;">
@@ -108,8 +106,7 @@ comments: false
     </div>
 </div>
 
-### Web
-
+### 🌐 Web
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
     <div style="text-align: center; flex: 0 0 100px;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/HTML5.svg" alt="HTML" style="width: 100%; max-width: 100px;">
@@ -135,13 +132,9 @@ comments: false
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Spring.svg" alt="Spring" style="width: 100%; max-width: 100px;">
         <p style="margin-top: 6px; font-size: 0.8em;"><strong>Spring</strong></p>
     </div>
-    <div style="text-align: center; flex: 0 0 100px;">
-        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Jira.svg" alt="Jira" style="width: 100%; max-width: 100px;">
-        <p style="margin-top: 6px; font-size: 0.8em;"><strong>Jira</strong></p>
-    </div>
 </div>
 
-### Other
+### 🧰 Other
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
     <div style="text-align: center; flex: 0 0 100px;">
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Python.svg" alt="Python" style="width: 100%; max-width: 100px;">
@@ -175,11 +168,15 @@ comments: false
         <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Cisco Packet Tracer.svg" alt="Cisco Packet Tracer" style="width: 100%; max-width: 100px;">
         <p style="margin-top: 6px; font-size: 0.8em;"><strong>Cisco Packet Tracer</strong></p>
     </div>
+    <div style="text-align: center; flex: 0 0 100px;">
+        <img src="https://d1hvrz5kjt6fwi.cloudfront.net/Technologies/Jira.svg" alt="Jira" style="width: 100%; max-width: 100px;">
+        <p style="margin-top: 6px; font-size: 0.8em;"><strong>Jira</strong></p>
+    </div>
 </div>
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
 ### Grado en Ingeniería Informática
 **Universidad [Nombre de tu Universidad]**
@@ -250,7 +247,7 @@ Especialización en sistemas distribuidos y computación en la nube
     </a>
 </div>
 
-## 🏆 Programas y Reconocimientos
+## 🏆 Programs and Honors
 
 <!--
 <div style="text-align: center; margin: 20px 0;">
@@ -262,13 +259,15 @@ Especialización en sistemas distribuidos y computación en la nube
 -->
 ---
 
-## 📚 Publicaciones Académicas
+## 📚 Academic Publications
 
 ### 2026
-- **Early Detection of Alzheimer's Disease Using Deep Learning Models on MRI Data: A Study Based on ADNI**
-  Presentado en [Eurocast 2026]()
+- [Early Detection of Alzheimer's Disease Using Deep Learning Models on MRI Data: A Study Based on ADNI]()
+
+    Presented at [Eurocast 2026]()
 
 ### 2025
 
-- [Early Detection of Alzheimer's Disease Using Deep Learning Models on MRI Data: A Study Based on ADNI]()
-  Presentado en [Las Palmas de Gran Canaria University 2025]()
+- [Aplicación de técnicas avanzadas de inteligencia artificial en el diagnóstico temprano del Alzheimer]()
+
+    Presented at [Las Palmas de Gran Canaria University 2025](https://accedacris.ulpgc.es/handle/10553/140745)

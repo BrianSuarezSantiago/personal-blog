@@ -4,7 +4,7 @@ slug: "agentes-memoria-persistente-agentcore-langgraph"
 date: 2025-10-23T17:30:00+02:00
 image: https://d1hvrz5kjt6fwi.cloudfront.net/Blog%20Posts%20Covers/Post%2005/Post%2005_horizontal_en.png
 draft: false
-description: De agentes “stateless” a sistemas inteligentes con memoria a largo plazo usando Amazon Bedrock AgentCore y LangGraph
+description: De agentes “stateless” a sistemas inteligentes con memoria a largo plazo
 tags:
   - AWS
   - AI
